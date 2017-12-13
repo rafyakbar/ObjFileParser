@@ -1,0 +1,18 @@
+D:\Drive\Kuliah\ObjFileParser\ObjFileParser\bin\Debug\ObjFileParser.exe.config
+D:\Drive\Kuliah\ObjFileParser\ObjFileParser\bin\Debug\ObjFileParser.exe
+D:\Drive\Kuliah\ObjFileParser\ObjFileParser\bin\Debug\ObjFileParser.pdb
+D:\Drive\Kuliah\ObjFileParser\ObjFileParser\obj\Debug\ObjFileParser.csprojResolveAssemblyReference.cache
+D:\Drive\Kuliah\ObjFileParser\ObjFileParser\obj\Debug\ObjFileParser.GUI.resources
+D:\Drive\Kuliah\ObjFileParser\ObjFileParser\obj\Debug\ObjFileParser.Properties.Resources.resources
+D:\Drive\Kuliah\ObjFileParser\ObjFileParser\obj\Debug\ObjFileParser.csproj.GenerateResource.Cache
+D:\Drive\Kuliah\ObjFileParser\ObjFileParser\obj\Debug\ObjFileParser.exe
+D:\Drive\Kuliah\ObjFileParser\ObjFileParser\obj\Debug\ObjFileParser.pdb
+D:\Drive\Kuliah\ObjFileParser - Copy\ObjFileParser\bin\Debug\ObjFileParser.exe.config
+D:\Drive\Kuliah\ObjFileParser - Copy\ObjFileParser\obj\Debug\ObjFileParser.exe
+D:\Drive\Kuliah\ObjFileParser - Copy\ObjFileParser\obj\Debug\ObjFileParser.pdb
+D:\Drive\Kuliah\ObjFileParser - Copy\ObjFileParser\bin\Debug\ObjFileParser.exe
+D:\Drive\Kuliah\ObjFileParser - Copy\ObjFileParser\bin\Debug\ObjFileParser.pdb
+D:\Drive\Kuliah\ObjFileParser - Copy\ObjFileParser\obj\Debug\ObjFileParser.csprojResolveAssemblyReference.cache
+D:\Drive\Kuliah\ObjFileParser - Copy\ObjFileParser\obj\Debug\ObjFileParser.GUI.resources
+D:\Drive\Kuliah\ObjFileParser - Copy\ObjFileParser\obj\Debug\ObjFileParser.Properties.Resources.resources
+D:\Drive\Kuliah\ObjFileParser - Copy\ObjFileParser\obj\Debug\ObjFileParser.csproj.GenerateResource.Cache

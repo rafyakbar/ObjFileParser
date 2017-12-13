@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjFileParser", "ObjFileParser\ObjFileParser.csproj", "{DC8E429C-0A96-4897-A177-EA72CDA762EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC8E429C-0A96-4897-A177-EA72CDA762EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC8E429C-0A96-4897-A177-EA72CDA762EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC8E429C-0A96-4897-A177-EA72CDA762EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC8E429C-0A96-4897-A177-EA72CDA762EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
